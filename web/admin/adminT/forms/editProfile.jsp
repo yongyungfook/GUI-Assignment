@@ -3,7 +3,7 @@
     Created on : 3 Mar 2022, 8:29:55 pm
     Author     : user
 --%>
-hello
+
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
